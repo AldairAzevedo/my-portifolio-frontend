@@ -1,2 +1,2 @@
 ## Meu Portifólio
-### Development by Aldair Azevedor
+### Development by Aldair Azevedo
